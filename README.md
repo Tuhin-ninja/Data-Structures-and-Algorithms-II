@@ -1,4 +1,4 @@
-This repository contains links to all my projects.
+This repository contains links to all my special offlines.
 
 ## Table of Contents:
 - [Knapsack_Approximation Algorithm](https://github.com/Tuhin-ninja/Knapsack_Approximation.git)
